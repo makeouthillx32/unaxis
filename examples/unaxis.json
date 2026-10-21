@@ -1,0 +1,4 @@
+{
+  "$comment": "How UNAXIS knows a project. Put this file at the project's root.",
+  "slug": "my-platform"
+}
